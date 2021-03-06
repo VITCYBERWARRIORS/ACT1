@@ -1,3 +1,5 @@
 # Group 1
 User-agent: *
 allow: /main/Page-1.html
+
+FLAG 2: VITCW{ 114536_856900_CTF2_@@##}
