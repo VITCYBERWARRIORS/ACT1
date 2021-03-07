@@ -2,4 +2,5 @@
 User-agent: *
 allow: /main/Page-1.html
 
+FLAG 1: is in first page
 FLAG 2: VITCW{ 114536_856900_CTF2_@@##}
